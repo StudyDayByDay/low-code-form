@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 外框：深紫色 -->
+  <rect x="3" y="3" width="18" height="18" rx="2" stroke="#7C3AED" stroke-width="2" />
+
+  <!-- 顶部标题栏：淡紫色填充 -->
+  <path d="M4 4H20V8H4V4Z" fill="#EDE9FE" />
+
+  <!-- 输入控件：强烈的紫色填充 -->
+  <rect x="6" y="11" width="12" height="2" rx="1" fill="#8B5CF6" />
+  <rect x="6" y="15" width="8" height="2" rx="1" fill="#A78BFA" />
+
+  <!-- 右下角的装饰点：粉色 -->
+  <circle cx="17" cy="16" r="1.5" fill="#EC4899" />
+</svg>
